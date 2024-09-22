@@ -84,6 +84,10 @@
   padding: 160px 19px 118px 45px;
 }
 
+.cover__title .aligned-text_center {
+  margin-right: 27px;
+}
+
 .cover__description {
   display: flex;
   justify-content: flex-end;
@@ -118,7 +122,6 @@
 
 .aligned-text_center {
   text-align: center;
-  margin-right: 27px;
 }
 
 .aligned-text_right {
